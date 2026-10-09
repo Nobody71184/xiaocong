@@ -1,0 +1,12 @@
+{
+  "pet_id": "pet_6ac8b9535ca08191bae5793329796158",
+  "name": "小葱",
+  "description": "青绿色双马尾的手绘 Q 版小伙伴，慵懒可爱，安静陪你工作。",
+  "is_custom": true,
+  "is_active": true,
+  "creation_verified": true,
+  "active_pet_id": "pet_6ac8b9535ca08191bae5793329796158",
+  "spritesheet_sha256": "7a313a3b1030ed69dc7d19ee467fa9712ebfe5a189ad22aba8aa9b364769280a",
+  "generation": "built-in imagegen",
+  "artifact_storage": "local; Library interface unavailable"
+}

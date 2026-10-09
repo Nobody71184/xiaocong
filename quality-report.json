@@ -1,0 +1,77 @@
+{
+  "ok": true,
+  "atlas": "/Users/tongmindy/Documents/Codex/2026-10-09/pets-plugin-work-pets-openai-curated/work/xiaocong/final/spritesheet-extended.png",
+  "encoded_bytes": 2979128,
+  "sha256": "7a313a3b1030ed69dc7d19ee467fa9712ebfe5a189ad22aba8aa9b364769280a",
+  "jump": {
+    "idle_baseline": 203,
+    "jump_baselines": [
+      202,
+      184,
+      158,
+      182,
+      202
+    ],
+    "airborne_lift_pixels": 44,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      96.0,
+      95.5,
+      95.5,
+      96.0,
+      96.5,
+      96.5,
+      95.0,
+      95.5,
+      96.5,
+      97.0,
+      95.5,
+      93.0,
+      91.5,
+      96.0,
+      99.0,
+      97.5
+    ],
+    "look_widths": [
+      156,
+      141,
+      141,
+      142,
+      129,
+      135,
+      142,
+      147,
+      141,
+      126,
+      125,
+      130,
+      125,
+      120,
+      126,
+      131
+    ],
+    "maximum_center_drift_pixels": 4.5,
+    "maximum_width_ratio": 1.3
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 045 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=195)",
+    "022.5 has transparent interior hole rows (y=195)",
+    "045 has transparent interior hole rows (y=195)",
+    "135 has transparent interior hole rows (y=197)",
+    "180 has transparent interior hole rows (y=192)",
+    "067.5->090 diff is a local outlier (3581 pixels vs neighbor average 1540)",
+    "112.5->135 diff is a local outlier (2809 pixels vs neighbor average 1706)",
+    "180->202.5 diff is a local outlier (3684 pixels vs neighbor average 2388)",
+    "337.5->000 diff is a local outlier (5224 pixels vs neighbor average 3190)",
+    "337.5->000 sprite area ratio is high (1.21)"
+  ]
+}
